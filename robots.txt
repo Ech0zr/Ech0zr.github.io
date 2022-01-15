@@ -1,0 +1,15 @@
+User-agent: * Allow: /
+
+Allow: /archives/
+
+Disallow: /vendors/
+
+Disallow: /categories/
+
+
+
+
+
+Sitemap: https://z3p5.gitee.io/sitemap.xml
+
+Sitemap: https://z3p5.gitee.io/baidusitemap.xml
